@@ -1,3 +1,2 @@
 #!/bin/bash
-getfacl -R /alx-system_engineering/0x01-shell_permissions/olleh > mirror
-setfacl --set-file mirro /alx-system_engineering/0x01-shell_permission/hello
+ln -s /root /alx-system_engineering-devops/0x01-shell_permission/olleh hello
